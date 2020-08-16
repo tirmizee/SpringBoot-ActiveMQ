@@ -1,3 +1,3 @@
 # SpringBoot-ActiveMQ
 
-## JMS
+## JMS (Java Message Service)
